@@ -1,0 +1,20 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "an[1]" LOC = P76;
+NET "an[0]" LOC = P77;
+NET "blue[0]" LOC = P95;
+NET "green[0]" LOC = P96;
+NET "red[0]" LOC = P97;
+NET "seg[6]" LOC = P89;
+NET "seg[5]" LOC = P87;
+NET "seg[4]" LOC = P86;
+NET "seg[3]" LOC = P85;
+NET "seg[2]" LOC = P84;
+NET "seg[1]" LOC = P83;
+NET "seg[0]" LOC = P82;
+NET "clk" LOC = P55;
+NET "clr" LOC = P99;
+NET "dp" LOC = P90;
+NET "hsync" LOC = P93;
+NET "vsync" LOC = P92;
